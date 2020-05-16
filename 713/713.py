@@ -14,7 +14,6 @@ class Solution(object):
         #[10,5,2,6]
         for right in range(len(nums)):
             prod *= nums[right]
-            print (prod)
             while left <= right and prod >= k :
                 prod /= nums[left]
                 left += 1
