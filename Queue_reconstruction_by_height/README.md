@@ -26,7 +26,7 @@ Suppose you have a random list of people standing in a queue. Each person is des
 
 
 
-- use inset(index,object)
+- Use inset(index,object)
   - List is in descending order. 
   - we can use k as index and insert the pair to a new list. 
   - Descending order will allow us insert shorter person in front of the taller people
