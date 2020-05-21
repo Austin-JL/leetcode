@@ -42,7 +42,7 @@ Transpose
 ],
 ```
 
-- reverse each row 
+- Reverse each row 
 
 
 
