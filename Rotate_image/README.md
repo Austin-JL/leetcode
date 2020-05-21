@@ -42,7 +42,7 @@ Transpose
 ],
 ```
 
-- Reverse each row 
+- For each row, swap first and last element
 
 
 
@@ -53,7 +53,7 @@ Transpose
   [3,6,9]
 ],
 
-Reverse
+Swap
 
 [
   [7,4,1],
