@@ -17,7 +17,7 @@ Given a *m* x *n* grid filled with non-negative numbers, find a path from top le
 
 ## Summary
 
-- simple dp question
+- Simple dp question
 
 - We start from the top left corner [0,0] :
 
