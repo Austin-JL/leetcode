@@ -10,4 +10,3 @@ class Solution:
             ans.append(subset)
         for i in range(len(nums)) :
             self.dfs(nums[:i]+nums[i+1:], subset+[nums[i]], ans)
-            print(subset)
