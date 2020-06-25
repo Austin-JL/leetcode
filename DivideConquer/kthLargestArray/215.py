@@ -1,3 +1,4 @@
+from random import uniform
 class Solution:
     def findKthLargest(self, nums: List[int], k: int) -> int:
         def fastSelect(nums,k):
